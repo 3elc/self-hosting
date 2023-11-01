@@ -1,0 +1,1 @@
+Powershell -Command "Start-Process PowerShell -Argumentlist '-noprofile -Command Set-NetConnectionProfile -NetworkCategory Private' -Verb RunAs"
