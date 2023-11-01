@@ -1,4 +1,4 @@
-# self-hosting
+# self-hosting & Configurations
 dotfiles and other resources for self-hosting at home
 
 # Migration to Public repo to-do list
