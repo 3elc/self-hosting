@@ -6,4 +6,3 @@ dotfiles and other resources for self-hosting at home
 - [ ] Redacted Docker Compose File
 - [ ] Linux Dotfiles
 - [X] Windows Dotfiles
-- [ ] 
