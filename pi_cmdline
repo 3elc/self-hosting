@@ -1,0 +1,1 @@
+root=PARTUUID=<redacted> rootfstype=ext4 rootwait fsck.repair=yes net.ifnames=0 logo.nologo console=tty1 cgroup_enable=memory cgroup_enable=memory
